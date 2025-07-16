@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "620365827964",
+    "project_id": "ulearning-app-a3f53",
+    "storage_bucket": "ulearning-app-a3f53.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620365827964:android:bab973f71f30acfd0a9ef9",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_projec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyo_h_CWlXyuL_yUk_y9xQvWWKV1iErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620365827964:android:b0e8631be8735e220a9ef9",
+        "android_client_info": {
+          "package_name": "com.example.riverpodproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyo_h_CWlXyuL_yUk_y9xQvWWKV1iErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620365827964:android:4f27e5c196fccb8e0a9ef9",
+        "android_client_info": {
+          "package_name": "com.example.ulearning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyo_h_CWlXyuL_yUk_y9xQvWWKV1iErY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
